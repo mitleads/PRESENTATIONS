@@ -68,6 +68,7 @@ nosetests.xml
 *.su2
 *.key
 
+*.pptx
 ide/Wing/SUAVE.wpr
 /doc/html
 /doc/latex
